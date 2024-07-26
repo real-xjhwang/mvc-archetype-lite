@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: mvc-archetype-lite
+  profiles:
+    active: dev
